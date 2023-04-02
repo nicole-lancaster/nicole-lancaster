@@ -1,3 +1,3 @@
 ### Hi there, I'm Nicole 👋
 
-🌱 I’m currently switching my career to software engineering.
+🌱 I’m currently enrolled on the Northcoders bootcamp, and looking for a role as a junior software engineer.
