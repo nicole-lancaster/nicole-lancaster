@@ -1,4 +1,4 @@
-### Hi there, I'm Nicole 👋
+👋 ### Hi there, I'm Nicole 
 
 🌱 Nearing completion of a software engineering bootcamp at Northcoders
 
