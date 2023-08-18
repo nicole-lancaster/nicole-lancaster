@@ -4,4 +4,4 @@
 
 🧑‍🎓 Full stack software engineer on a journey of lifelong learning 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-lancaster&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-lancaster&size_weight=0.5&count_weight=0.5&layout=donut)
