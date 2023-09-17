@@ -8,10 +8,10 @@
 
 ## Skills
 
-### Languages
+#### Languages
 HTML, CSS, JavaScript, TypeScript, Python, C, SQL
 
-### Frameworks & Technologies
+#### Frameworks & Technologies
 React, Node.js, Express.js, TailwindCSS, HeadlessUI, React Native, Jest, Postgres, SQLite, MongoDB, Mongoose, Google Maps API Netlify, Render
 
 #### Project/Work Tools
