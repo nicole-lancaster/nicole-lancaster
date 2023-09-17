@@ -31,6 +31,8 @@
 - Mongoose
 - Firebase
 - Google Maps Platform API
+- Axios
+- Nodemon
 - Netlify
 - Render
 
