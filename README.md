@@ -12,7 +12,7 @@
 HTML, CSS, JavaScript, TypeScript, Python, C, SQL
 
 #### Frameworks & Technologies
-React, Node.js, Express.js, TailwindCSS, HeadlessUI, React Native, Jest, Postgres, SQLite, MongoDB, Mongoose, Google Maps API Netlify, Render
+React, Node.js, Express.js, TailwindCSS, HeadlessUI, React Native, Jest, PostgreSQL, SQLite, MongoDB, Mongoose, Google Maps API, Netlify, Render, ElephantSQL
 
 #### Project/Work Tools
 Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
@@ -34,8 +34,8 @@ Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
 ## Get in touch 
 
 - Email:      lancasternj@gmail.com 
-- Linkedin:   https://www.linkedin.com/in/nicole-lancaster-614929142/ 
-- Portfolio:  https://nicolelancasterportfolio.netlify.app/ 
+- Linkedin:   https://www.linkedin.com/in/nicole-lancaster-614929142
+- Portfolio:  https://nicolelancasterportfolio.netlify.app
 
 ## Acknowledegements
 
