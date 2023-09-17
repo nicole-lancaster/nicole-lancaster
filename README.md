@@ -29,8 +29,7 @@
 - SQLite
 - MongoDB
 - Mongoose
-- Firebase
-- Google Maps Platform API
+- API integration
 - Axios
 - Nodemon
 - Netlify
@@ -61,14 +60,14 @@
 
 ## Get in touch 
 
-- Email:      lancasternj@gmail.com \
-- Linkedin:   https://www.linkedin.com/in/nicole-lancaster-614929142/ \
+- Email:      lancasternj@gmail.com 
+- Linkedin:   https://www.linkedin.com/in/nicole-lancaster-614929142/ 
 - Portfolio:  https://nicolelancasterportfolio.netlify.app/ 
 
 ## Acknowledegements
 
 🫶 I am incredibly grateful to be where I am today with the support of...
-- My fellow students and all the staff at Northcoders for high quality teaching materials and methods and unwavering support and rubber ducking.
-- My friends and family who have given me endless support and love along my software journey and career transition
+- My fellow students and all the staff at Northcoders for high quality teaching materials and methods, support and rubber ducking
+- My friends and family who have given me unwavering support along my software journey and career transition
 - Communities I have become a part of along the way including Code First Girls, Woman Who Code, HarvardX and the INCO Academy for their opportunities to let me learn/share/get support/enthuse about code and tech.
 
