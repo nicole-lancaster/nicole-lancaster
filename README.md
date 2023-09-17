@@ -9,40 +9,13 @@
 ## Skills
 
 ### Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-- C
-- SQL
+HTML, CSS, JavaScript, TypeScript, Python, C, SQL
 
 ### Frameworks & Technologies
-- React
-- Node.js
-- Express.js
-- TailwindCSS
-- HeadlessUI
-- React Native
-- Jest
-- Postgres
-- SQLite
-- MongoDB
-- Mongoose
-- API integration
-- Axios
-- Nodemon
-- Netlify
-- Render
+React, Node.js, Express.js, TailwindCSS, HeadlessUI, React Native, Jest, Postgres, SQLite, MongoDB, Mongoose, API integration, Axios, Nodemon, Netlify, Render
 
 #### Project/Work Tools
-- Figma
-- Git
-- GitHub
-- Trello
-- Agile and scrum working
-- Pair programming
-- VS Code
+Figma, Git, GitHub, Trello, Agile and scrum working, Pair programming, VS Code
 
 
 ## Learning and Development
