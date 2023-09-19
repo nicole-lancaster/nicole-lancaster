@@ -33,9 +33,7 @@ Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
 
 ## Get in touch 
 
-- Email:      lancasternj@gmail.com 
-- Linkedin:   https://www.linkedin.com/in/nicole-lancaster-614929142
-- Portfolio:  https://nicolelancasterportfolio.netlify.app
+[linktr.ee/nicolelancaster](https://linktr.ee/nicolelancaster)
 
 ## Acknowledegements
 
