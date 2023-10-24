@@ -9,10 +9,10 @@
 ## Skills
 
 #### Languages
-HTML, CSS, JavaScript, TypeScript, Python, C, SQL
+HTML, CSS, SQL, JavaScript, TypeScript
 
 #### Frameworks & Technologies
-React, Node.js, Express.js, TailwindCSS, HeadlessUI, React Native, Jest, PostgreSQL, SQLite, MongoDB, Mongoose, Google Maps API, Netlify, Render, ElephantSQL
+React, Node.js, Express.js, TailwindCSS, HeadlessUI, ChakraUI, React Native, Jest, PostgreSQL, MongoDB, Mongoose, Netlify, Render
 
 #### Project/Work Tools
 Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
@@ -22,13 +22,13 @@ Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
 
 - 💻 at the moment I'm building a full stack application using the MERN stack and TypeScript, using Git, GitHub and Trello for project management
 
-- 🌱 recently I have taught myself TypeScript, C and Python
+- 🌱 recently I have been teaching myself TypeScript
   
 - 🛠️ I love to keep up to date on new tools and technologies - right now I am excited to try out Bun 1.0 to see how it compares to developing using Node
 
 - 👯 I am truly passionate about both front end and back end devlopment with a deep appreciation and enjoyment for both
 
-- 👀 I am looking for a role as a junior full stack developer, where I can bring my software and soft skills to a team
+- 👀 I am looking for a role as a full stack developer, where I can bring my software and soft skills to a team
 
 
 ## Get in touch 
