@@ -4,7 +4,7 @@
 
 ## About me
 
-👩🏻‍💻 Self taught in HTML, CSS and foundational JavaScript, I found my passion in software engineering and wanted to take it further as a career. I then completed a full stack software development bootcamp, to help kickstart my future career and to learn and practice my new skills in collaboration with others. By the end of the 13 weeks I was comfortably building full-stack applications. Since completing my intensive bootcamp, I have continued on my journey of lifelong learning and immersed myself in the world of software development.
+👩🏻‍💻 I love to build robust, high-quality solutions, with care and consideration for the user experience. When I'm not coding, you'll probably find me outside running on trails, walking in the forest, or on my bike.
 
 ## Skills
 
@@ -12,7 +12,7 @@
 HTML, CSS, SQL, JavaScript, TypeScript
 
 #### Frameworks & Technologies
-React, Node.js, Express.js, TailwindCSS, HeadlessUI, ChakraUI, React Native, Jest, PostgreSQL, MongoDB, Mongoose, Netlify, Render
+React, Node.js, Express.js, TailwindCSS, HeadlessUI, ChakraUI, Bootstrap, React Native, Jest, PostgreSQL, MongoDB, Mongoose, Netlify, Render
 
 #### Project/Work Tools
 Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
@@ -22,18 +22,16 @@ Figma, Git, GitHub, Trello, Agile working, Pair programming, VS Code
 
 - 💻 at the moment I'm building a full stack application using the MERN stack and TypeScript, using Git, GitHub and Trello for project management
 
-- 🌱 recently I have been teaching myself TypeScript
+- 🌱 recently I have been undertaking the edX online Harvard University Introduction to COmputer Science Course (CS50) - currently completing week 9 of 10
   
-- 🛠️ I love to keep up to date on new tools and technologies - right now I am excited to try out Bun 1.0 to see how it compares to developing using Node
+- 🛠️ I love to keep up to date on new tools and technologies - I'm currently trying out ChakraUI and React Hook Forms for robust state management of forms and to provide an excellent user experience
 
 - 👯 I am truly passionate about both front end and back end devlopment with a deep appreciation and enjoyment for both
-
-- 👀 I am looking for a role as a full stack developer, where I can bring my software and soft skills to a team
 
 
 ## Get in touch 
 
-[linktr.ee/nicolelancaster](https://linktr.ee/nicolelancaster)
+[nicolelancaster.tech](https://nicolelancaster.tech)
 
 ## Acknowledegements
 
