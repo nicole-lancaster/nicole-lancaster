@@ -2,5 +2,5 @@
 
 ## Get in touch 
 
-[nicolelancaster.tech](https://nicolelancaster.tech)
+https://nicole-dev.vercel.app
 
